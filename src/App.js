@@ -1,3 +1,4 @@
+/* eslint-disable no-eval */
 import { useState } from "react";
 
 function App() {
